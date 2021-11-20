@@ -6,25 +6,25 @@ Variables
 */
 
 :root {
-  /* dark shades of primary color*/
+  /* primario oscuro*/
   --clr-primary-1: hsl(21, 91%, 17%);
   --clr-primary-2: hsl(21, 84%, 25%);
   --clr-primary-3: hsl(21, 81%, 29%);
   --clr-primary-4: hsl(21, 77%, 34%);
-  /* primary/main color */
+  /* principal primario */
   --clr-primary-5: hsl(21, 62%, 45%);
-  /* lighter shades of primary color */
+  /* primario claros */
   --clr-primary-6: hsl(21, 57%, 50%);
   --clr-primary-7: hsl(21, 65%, 59%);
   --clr-primary-8: hsl(21, 80%, 74%);
   --clr-primary-9: hsl(21, 94%, 87%);
   --clr-primary-10: hsl(21, 100%, 94%);
-  /* darkest grey - used for headings */
+  /* primario oscuros */
   --clr-grey-1: #102a42;
   --clr-grey-2: hsl(211, 39%, 23%);
   --clr-grey-3: hsl(209, 34%, 30%);
   --clr-grey-4: hsl(209, 28%, 39%);
-  /* grey used for paragraphs */
+  /* parrafos gris */
   --clr-grey-5: hsl(210, 22%, 49%);
   --clr-grey-6: hsl(209, 23%, 60%);
   --clr-grey-7: hsl(211, 27%, 70%);
@@ -46,11 +46,7 @@ Variables
   --max-width: 1170px;
   --fixed-width: 620px;
 }
-/*
-=============== 
-Global Styles
-===============
-*/
+
 
 *,
 ::after,
@@ -616,7 +612,7 @@ product
 }
 /*
 =============== 
-About Page
+Nosotros
 ===============
 */
 .about-text {
@@ -628,7 +624,7 @@ About Page
 
 /*
 =============== 
-Products Page
+Productos 
 ===============
 */
 .products {
@@ -717,7 +713,7 @@ Products Page
 }
 /*
 =============== 
-Single Product Page
+Single Product 
 ===============
 */
 .page-hero {
