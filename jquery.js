@@ -14,3 +14,6 @@ $('#form').submit(function(e){
   e.preventDefault();
   alert('Enviado Exitosamente');
 });
+$('h5').text('Contacto');
+$('.info-contact').html('Escribinos cualquier duda que tengas!');
+$('.info-contact').css('color', 'black');

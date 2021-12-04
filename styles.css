@@ -770,6 +770,11 @@ Single Product
     grid-template-columns: 1fr 1fr;
   }
 }
+.info-contact{
+  margin-left: 34.2vw;
+  margin-top: 3vw;
+  color: rgba(128, 128, 128, 0.74);
+}
 /*contacto*/
 form {
   max-width: 600px;
@@ -788,7 +793,7 @@ form input, form textarea {
 }
 form #input-submit {
   color: white;
-  background: var(--clr-primary-5);
+  background: var(--clr-primary-7);
   cursor: pointer;
 }
 form textarea {
