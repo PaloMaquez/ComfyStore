@@ -831,3 +831,11 @@ h5{
 .cf:after {
   clear: both;
 }
+.input-clickText{
+  font-family: 'Noto Serif Display', serif;
+  font-weight:500;
+  display: none;
+  color: black;
+  margin-top: -70px;
+  opacity: 0;
+}
